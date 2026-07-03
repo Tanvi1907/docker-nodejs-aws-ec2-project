@@ -117,7 +117,11 @@ sudo docker ps
 ```
 
 ---
+## 📸 Project Screenshots
 
+![Local Application](screenshots/local-app.png)
+
+![AWS Deployment](screenshots/aws-deployment.png)
 ## Author
 
 **Tanvi Rastogi**
